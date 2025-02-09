@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there! 👋
+I'm AJ Dalagon
+Freelancer | Web Developer | Student
 
-<!--
-**ajdalagon2006/ajdalagon2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 About Me
+🚀 Currently learning Java, SQLite, and React to enhance my development skills.
+💻 Passionate about building web-based guides and productivity tools to help others stay organized.
 
-Here are some ideas to get you started:
+🛠 Technologies I'm Learning
+Languages: Java, HTML, CSS, JavaScript, SQL
+Tools: GitHub, Eclipse, VS Code
+Frameworks: React (soon!)
+📫 Connect With Me
+📌 Portfolio: Coming Soon
+📧 Email: ajdalagon123@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun Fact
+I love coding, helping others, and challenging myself to learn something new every day! 🎉

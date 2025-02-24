@@ -1,18 +1,20 @@
-Hi there! 👋
+# Hi there! 👋
 I'm AJ Dalagon
-Freelancer | Web Developer | Student
-
+Freelancer | Web Developer | Student 
+```
 🌱 About Me
 🚀 Currently learning Java, SQLite, and React to enhance my development skills.
 💻 Passionate about building web-based guides and productivity tools to help others stay organized.
+```
 
-🛠 Technologies I'm Learning
+## 🛠 Technologies I'm Learning
+```
 Languages: Java, HTML, CSS, JavaScript, SQL
 Tools: GitHub, Eclipse, VS Code
 Frameworks: React (soon!)
 📫 Connect With Me
 📌 Portfolio: Coming Soon
 📧 Email: ajdalagon123@gmail.com
-
-⚡ Fun Fact
-I love coding, helping others, and challenging myself to learn something new every day! 🎉
+```
+*⚡ Fun Fact*
+*I love coding, helping others, and challenging myself to learn something new every day! 🎉*
